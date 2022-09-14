@@ -1,1 +1,3 @@
 ceci est une prmeuere phrase dans mon fichier.txt
+
+ceci est une deuxieme phrase dans mon fichier.txt
